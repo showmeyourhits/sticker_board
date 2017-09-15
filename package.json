@@ -1,0 +1,35 @@
+{
+  "name": "shared_board",
+  "version": "1.0.0",
+  "description": "Work in real time",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "srv:dev": "nodemon server/main.js",
+    "test": "echo \"NO FUKEN TESTS\""
+  },
+  "keywords": [
+    "sticker",
+    "board"
+  ],
+  "engines": {
+    "node": ">=8.4.0"
+  },
+  "author": "showmeyourhits",
+  "license": "WTFPL",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.3.0",
+    "flow-bin": "^0.54.1",
+    "nodemon": "^1.12.1"
+  }
+}

@@ -8,7 +8,7 @@ Work on your ideas with colleagues in real time.
 
 - ~~project in your head~~
 - ~~describe data structures~~
-- create local database
+- create local databases
 - implement backend APIs
 - create dbs on heroku
 - deploy backend on heroku
